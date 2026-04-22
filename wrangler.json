@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ebaysearch",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "233c59e0-e5f0-43a4-b4cc-40a0ed386279",
+			"database_name": "ebaysearchdata"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
